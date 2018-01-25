@@ -1,0 +1,1 @@
+x = msgbox("Successfully Left Circut!",0+48,"Labyrinth")
