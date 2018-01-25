@@ -1,0 +1,1 @@
+start /MIN "Labyrinth" "%cd%\MAIN\u1704.exe"

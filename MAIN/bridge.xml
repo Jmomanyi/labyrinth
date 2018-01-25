@@ -1,0 +1,6 @@
+<computer>
+Environment.MachineName
+<dir>
+System.IO.Directory.GetCurrentDirectory
+</dir>
+</computer>
