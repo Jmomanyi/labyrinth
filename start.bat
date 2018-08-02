@@ -1,2 +1,2 @@
-start "Labyrinth" /NORMAL "%cd%\Labyrinth.exe"
+start "*" /HIGH "%cd%\Labyrinth.exe"
 exit /B 1
