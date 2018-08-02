@@ -32,6 +32,7 @@ Up and Comming Features!
   *Bypass Port Filtering
   *clipboard spoof
   *PHP Proxy
+  *HTML to PDF
   *Dynamic IP's
   *Sandboxed Browser
   *Improved New Identity
