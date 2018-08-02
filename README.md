@@ -14,7 +14,6 @@ Current Anti Censorship Options:
   *PPTP - TideWave
   *VM - Browserling
   *Directory Bridges
-  *OBFS3
   *OBFS4
   *FTE
 
@@ -36,3 +35,4 @@ Up and Comming Features!
   *Dynamic IP's
   *Sandboxed Browser
   *Improved New Identity
+  *OBFS3
