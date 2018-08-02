@@ -6,6 +6,7 @@ Current Anti Censorship Options:
   *meek - Google #1
   *meek - Google #2
   *meek - Google #3
+  *meek - Microsoft
   *meek - DuckDuckGo
   *meek - adfly
   *meek - cache
@@ -29,7 +30,6 @@ Current Security Features:
   
 Up and Comming Features!
   *Bypass Port Filtering
-  *meek - Microsoft
   *clipboard spoof
   *PHP Proxy
   *Dynamic IP's
