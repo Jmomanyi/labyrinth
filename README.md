@@ -10,11 +10,12 @@ Current Anti Censorship Options:
   *meek - DuckDuckGo
   *meek - adfly
   *meek - cache
+  *meek - Afilias
   *VPN - Ultrasurf (third party)
   *PPTP - TideWave
   *VM - Browserling
   *Directory Bridges
-  *OBFS3
+  *MFS
   *FTE
 
 Current Security Features:
@@ -36,3 +37,4 @@ Up and Comming Features!
   *Sandboxed Browser
   *Improved New Identity
   *OBFS4
+  *OBFS3
