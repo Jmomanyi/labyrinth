@@ -12,6 +12,7 @@ Current Anti Censorship Options:
   *meek - cache
   *meek - Afilias
   *Bypass Port Filtering
+  *Dynamic IP (DSO - Dynamic Scrabled Output) [BETA]
   *VPN - Ultrasurf (third party)
   *PPTP - TideWave
   *VM - Browserling
@@ -33,7 +34,6 @@ Up and Comming Features!
   *clipboard spoof
   *PHP Proxy
   *HTML to PDF
-  *Dynamic IP's
   *Sandboxed Browser
   *Improved New Identity
   *OBFS4
