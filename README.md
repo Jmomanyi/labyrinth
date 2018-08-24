@@ -38,3 +38,4 @@ Up and Comming Features!
   *Improved New Identity
   *OBFS4
   *OBFS3
+  *Auto Update Host Client
