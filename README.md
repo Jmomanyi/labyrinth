@@ -11,6 +11,7 @@ Current Anti Censorship Options:
   *meek - adfly
   *meek - cache
   *meek - Afilias
+  *Bypass Port Filtering
   *VPN - Ultrasurf (third party)
   *PPTP - TideWave
   *VM - Browserling
@@ -29,7 +30,6 @@ Current Security Features:
   *Incognito Browsing
   
 Up and Comming Features!
-  *Bypass Port Filtering
   *clipboard spoof
   *PHP Proxy
   *HTML to PDF
