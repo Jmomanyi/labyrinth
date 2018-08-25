@@ -39,3 +39,4 @@ Up and Comming Features!
   *OBFS4
   *OBFS3
   *Auto Update Host Client
+  *Screen Size Spoof
