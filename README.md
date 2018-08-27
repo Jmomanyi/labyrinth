@@ -31,12 +31,16 @@ Current Security Features:
   *Incognito Browsing
   
 Up and Comming Features!
-  *clipboard spoof
+  *clipboard spoofing
   *PHP Proxy
   *HTML to PDF
   *Sandboxed Browser
   *Improved New Identity
   *OBFS4
   *OBFS3
+  *ScrambleSuit
+  *Skype Proxy
+  *Flash Proxy
   *Auto Update Host Client
   *Screen Size Spoof
+  *LABYRINTH NETWORK
