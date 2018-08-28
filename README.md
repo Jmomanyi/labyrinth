@@ -27,11 +27,11 @@ Current Security Features:
   *Block HTTP Requests
   *Block Redirections
   *Anti Spy
+  *Clipboard Spoofing
   *Secure Downloads
   *Incognito Browsing
   
 Up and Comming Features!
-  *clipboard spoofing
   *PHP Proxy
   *HTML to PDF
   *Sandboxed Browser
