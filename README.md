@@ -17,6 +17,7 @@ Current Anti Censorship Options:
   *PPTP - TideWave
   *VM - Browserling
   *Directory Bridges
+  *No Logging DNS
   *MFS
   *FTE
 
@@ -26,7 +27,8 @@ Current Security Features:
   *HTTPS Encryption
   *Block HTTP Requests
   *Block Redirections
-  *Anti Spy
+  *NET Anti Spy
+  *IRL Anti Spy
   *Clipboard Spoofing
   *Secure Downloads
   *Incognito Browsing
