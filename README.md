@@ -11,11 +11,9 @@ Current Anti Censorship Options:
   *meek - adfly
   *meek - cache
   *meek - Afilias
+  *meek - Browserling
   *Bypass Port Filtering
   *Dynamic IP (DSO - Dynamic Scrabled Output) [BETA]
-  *VPN - Ultrasurf (third party)
-  *PPTP - TideWave
-  *VM - Browserling
   *Directory Bridges
   *No Logging DNS
   *MFS
@@ -31,8 +29,9 @@ Current Security Features:
   *IRL Anti Spy
   *Clipboard Spoofing
   *Secure Downloads
+  *Plain Text Website
   *Incognito Browsing
-  
+ 
 Up and Comming Features!
   *PHP Proxy
   *HTML to PDF
@@ -43,6 +42,15 @@ Up and Comming Features!
   *ScrambleSuit
   *Skype Proxy
   *Flash Proxy
+  *Goodbye DPI
   *Auto Update Host Client
   *Screen Size Spoof
+  *UltraSurf Support
+  *PPTP Proxys
   *LABYRINTH NETWORK
+  
+Theories and Ideas:
+  *AWS Proxy
+  *TOR Config
+  *Discord Proxy
+  *norefer
