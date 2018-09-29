@@ -47,6 +47,7 @@ Up and Comming Features!
   *Screen Size Spoof
   *UltraSurf Support
   *PPTP Proxys
+  *HTTP Proxys
   *LABYRINTH NETWORK
   
 Theories and Ideas:
