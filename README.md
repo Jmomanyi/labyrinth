@@ -2,7 +2,7 @@
 to configure/start, run start.bat in the RAW DIRECTORY
 for maximum effect of Labyrinth make sure that the directory folder does not have spaces eg. "Labyrinth_Browser"
 
-Current Anti Censorship Options:
+# Current Anti Censorship Options:
   *meek - Google #1
   *meek - Google #2
   *meek - Google #3
@@ -13,13 +13,14 @@ Current Anti Censorship Options:
   *meek - Afilias
   *meek - Browserling
   *Bypass Port Filtering
+  *Goodbye DPI
   *Dynamic IP (DSO - Dynamic Scrabled Output) [BETA]
   *Directory Bridges
   *No Logging DNS
   *MFS
   *FTE
 
-Current Security Features:
+# Current Security Features:
   *Block Popups
   *Virus Blacklist
   *HTTPS Encryption
@@ -32,7 +33,7 @@ Current Security Features:
   *Plain Text Website
   *Incognito Browsing
  
-Up and Comming Features!
+# Up and Comming Features!
   *PHP Proxy
   *HTML to PDF
   *Sandboxed Browser
@@ -42,7 +43,6 @@ Up and Comming Features!
   *ScrambleSuit
   *Skype Proxy
   *Flash Proxy
-  *Goodbye DPI
   *Auto Update Host Client
   *Screen Size Spoof
   *UltraSurf Support
