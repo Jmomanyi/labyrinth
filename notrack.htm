@@ -15,6 +15,51 @@
 <dir><input id="search-oneweb" accesskey="q" tabindex="2" rel="noreferrer" type="submit" value="Search" /></dir>&nbsp;
 <h5 id="help" style="color: red;"></h5>
 
+<!--proxy search-->
+<div>
+|
+<div>
+<a id="cp" onclick="startproxy1();">Proxy(1)</a>
+	<div>
+	<a id="ps" onclick="startproxy2();">Proxy(2)</a>
+		<div>
+		<a id="kp" onclick="startproxy3();">Proxy(3)</a>
+		</div>
+	</div>
+</div>
+</div>
+<script>
+var file = "proxy.html"
+var file2 = "proxy2.html"
+var file3 = "proxy3.html"
+function startproxy1() { window.location = "proxys/" + file; }
+function startproxy2() { window.location = "proxys/" + file2; }
+function startproxy3() { window.location = "proxys/" + file3; }
+</script>
+
+
+<noscript>
+please enable javascript for notrack to work properly
+</noscript>
+<script type="text/javascript">
+/* remove at max 700 cookies */
+var d = new Date();
+var t = 0
+while (t < 700) {
+var name=document.body.getElementsByTagName('*');
+var path=document.body.getElementsByTagName('*');
+function delete_cookie( name, path, "ddg.gg" ) {
+  if( get_cookie( name ) ) {
+    document.cookie = name + "=" +
+      ((path) ? ";path="+path:"")+
+      ((domain)?";domain="+domain:"") +
+      d;
+  }
+}
+console.log(name + ", " + path);
+    i++;
+}
+</script>
 <script type="text/javascript">
 // shortcut keys
 document.getElementById('search-bar').onkeydown = function(e){
