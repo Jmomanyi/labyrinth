@@ -48,6 +48,7 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * Screen Size Spoof
   * UltraSurf Support
   * PPTP Proxys
+  * Anti Mirroring
   * LABYRINTH NETWORK
   
 ---
