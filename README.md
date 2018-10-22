@@ -33,7 +33,7 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * Secure Downloads
   * Plain Text Website
   * Incognito Browsing
-  * Anti Mirroring
+  * DuckDuckgo Anti Mirroring
  
 #### Up and Comming Features!
   * PHP Proxy
