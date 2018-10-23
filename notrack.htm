@@ -5,6 +5,8 @@
 <script type="text/javascript" src="js/cookies.js"></script>
 <script type="text/javascript" src="js/nofilter.js"></script>
 <title>NoTrack - "Protecting Your Privacy"</title>
+
+<body id="main-section">
 <p id="title-bar"><h2>Labyrinth Anti Censorship Web Browser</h2></p>
 
 <input id="search-bar" accesskey="s" style="border: none; color: #2d2d2d; position: relative; background-color: #fff; font-size: 19px; width: 39.8%; left: 0.1%;" tabindex="1" spellcheck="false" autocomplete="off" maxlength="328" name="query" size="26" type="text" autofocus="" /><select id="engine-picker" class="s" name="engine" size="2" onchange="cengine();">
@@ -86,13 +88,25 @@ if (document.getElementsByName('engine')[0].value=="sp") {
 document.getElementById('help').innerText = 'We recommend using DuckDuckGo, this is due to randomizes and anti-mirroring not being available with StartPage.'; } else { document.getElementById('help').innerText = '';
 }}
 </script>
+</body>
 
+
+
+<footer>
+<!--scripts for layout and style-->
 <style>
 body {
-    background-color: #cbcdcd;
+    background-image: url("css/background.png");
+	background-position: zoom;
 }
 select#engine-picker {
 	background-color: #fff;
 	position: absolute;
 }
 </style>
+
+<script>
+document.getElementById("main-section").style.width = screen.width;
+document.getElementById("main-section").style.height = screen.height;
+</script>
+</footer>
