@@ -51,6 +51,7 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * PPTP Proxys
   * Anti Mirroring
   * LABYRINTH NETWORK
+  * HTML5 Support
   
 ---
 Theories and Ideas:
