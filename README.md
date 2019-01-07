@@ -16,6 +16,7 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * Bypass Port Filtering
   * Goodbye DPI
   * Dynamic IP (DSO - Dynamic Scrabled Output) [BETA]
+  * PPTP proxy support
   * Directory Bridges
   * No Logging DNS
   * MFS
@@ -48,7 +49,6 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * Auto Update Host Client
   * Screen Size Spoof
   * UltraSurf Support
-  * PPTP Proxys
   * Anti Mirroring
   * LABYRINTH NETWORK
   * HTML5 Support
