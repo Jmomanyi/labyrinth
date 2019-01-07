@@ -51,7 +51,6 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * UltraSurf Support
   * Anti Mirroring
   * LABYRINTH NETWORK
-  * HTML5 Support
   
 ---
 Theories and Ideas:
