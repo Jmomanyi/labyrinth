@@ -46,11 +46,13 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * ScrambleSuit
   * Skype Proxy
   * Flash Proxy
-  * Auto Update Host Client
   * Screen Size Spoof
   * UltraSurf Support
   * Anti Mirroring
   * LABYRINTH NETWORK
+  
+#### Other Features
+  * Auto Update
   
 ---
 Theories and Ideas:
