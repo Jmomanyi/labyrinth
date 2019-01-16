@@ -35,6 +35,7 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * Plain Text Website
   * Incognito Browsing
   * DuckDuckgo Anti Mirroring
+  * Auto Update
  
 #### Up and Comming Features!
   * PHP Proxy
@@ -50,9 +51,6 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * UltraSurf Support
   * Anti Mirroring
   * LABYRINTH NETWORK
-  
-#### Other Features
-  * Auto Update
   
 ---
 Theories and Ideas:
