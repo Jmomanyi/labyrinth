@@ -60,3 +60,7 @@ Theories and Ideas:
   4. Discord Proxy
   5. norefer
   6. meek - Cloudflare
+  
+  ---
+  *bug fixes
+  * compatiblity issues with older versions of windows
