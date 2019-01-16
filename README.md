@@ -62,5 +62,5 @@ Theories and Ideas:
   6. meek - Cloudflare
   
   ---
-  *bug fixes
+  *bugs needing ironing out
   * compatiblity issues with older versions of windows
