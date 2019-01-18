@@ -18,7 +18,7 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * Goodbye DPI
   * Dynamic IP (DSO - Dynamic Scrabled Output) [BETA]
   * PPTP proxy support
-  * Directory Bridges (Tempoarily Broken)
+  * Directory Bridges
   * No Logging DNS
   * MFS
   * FTE
