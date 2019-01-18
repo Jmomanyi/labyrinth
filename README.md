@@ -42,7 +42,6 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * PHP Proxy
   * HTML to PDF
   * Sandboxed Browser
-  * Improved New Identity
   * OBFS4
   * OBFS3
   * ScrambleSuit
