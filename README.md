@@ -20,7 +20,7 @@ for maximum effect of Labyrinth make sure that the directory folder does not hav
   * PPTP proxy support
   * Directory Bridges
   * No Logging DNS
-  * MFS
+  * MFS Bridges
   * FTE
   
 #### Current Security Features:
